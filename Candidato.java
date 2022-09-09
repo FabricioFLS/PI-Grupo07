@@ -6,7 +6,7 @@ public class Candidato {
     String partido;
     int numeroCandidato;
     int idade;
-    int teste;
+    
 
     Candidato(){
 
